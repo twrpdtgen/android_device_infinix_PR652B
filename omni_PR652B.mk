@@ -15,7 +15,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/infinix/PR652B/device.mk)
 
 PRODUCT_DEVICE := PR652B
-PRODUCT_NAME := omni_PR652B
+PRODUCT_NAME := twrp_PR652B
 PRODUCT_BRAND := Infinix
 PRODUCT_MODEL := Infinix PR652B
 PRODUCT_MANUFACTURER := infinix
